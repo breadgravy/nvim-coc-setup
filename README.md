@@ -7,3 +7,5 @@ All dependencies were installable from apt, including the following
 - clang 
 - ccls
 - nvim
+
+A more up2date version of nodejs might be required; nvm helps install this
